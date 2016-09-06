@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: be3c5c4ba8d8d5f4b8c640895ea1ab34
+timeCreated: 1444076993
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Colliders
+    100002: Colliders_1068
+    100004: Colliders_1211
+    100006: Colliders_129
+    100008: Colliders_1348
+    100010: Colliders_2023
+    100012: Colliders_2409
+    100014: Colliders_2543
+    100016: Colliders_59
+    100018: Colliders_890
+    100020: Colliders_897
+    100022: Curva_1
+    100024: Curva_3
+    100026: Group1
+    100028: Group1 1
+    100030: Group2
+    100032: Group3
+    100034: Group4
+    100036: //RootNode
+    100038: CircleRoute
+    100040: CircleRoute 1
+    100042: Colliders_2861
+    100044: Colliders_2872
+    100046: Colliders_2938
+    100048: Colliders_411
+    100050: Colliders_438
+    100052: Colliders_785
+    100054: Colliders_811
+    400000: Colliders
+    400002: Colliders_1068
+    400004: Colliders_1211
+    400006: Colliders_129
+    400008: Colliders_1348
+    400010: Colliders_2023
+    400012: Colliders_2409
+    400014: Colliders_2543
+    400016: Colliders_59
+    400018: Colliders_890
+    400020: Colliders_897
+    400022: Curva_1
+    400024: Curva_3
+    400026: Group1
+    400028: Group1 1
+    400030: Group2
+    400032: Group3
+    400034: Group4
+    400036: //RootNode
+    400038: CircleRoute
+    400040: CircleRoute 1
+    400042: Colliders_2861
+    400044: Colliders_2872
+    400046: Colliders_2938
+    400048: Colliders_411
+    400050: Colliders_438
+    400052: Colliders_785
+    400054: Colliders_811
+    2300000: Colliders_1068
+    2300002: Colliders_1211
+    2300004: Colliders_129
+    2300006: Colliders_1348
+    2300008: Colliders_2023
+    2300010: Colliders_2409
+    2300012: Colliders_2543
+    2300014: Colliders_59
+    2300016: Colliders_890
+    2300018: Colliders_897
+    2300020: Colliders_2861
+    2300022: Colliders_2872
+    2300024: Colliders_2938
+    2300026: Colliders_411
+    2300028: Colliders_438
+    2300030: Colliders_785
+    2300032: Colliders_811
+    3300000: Colliders_1068
+    3300002: Colliders_1211
+    3300004: Colliders_129
+    3300006: Colliders_1348
+    3300008: Colliders_2023
+    3300010: Colliders_2409
+    3300012: Colliders_2543
+    3300014: Colliders_59
+    3300016: Colliders_890
+    3300018: Colliders_897
+    3300020: Colliders_2861
+    3300022: Colliders_2872
+    3300024: Colliders_2938
+    3300026: Colliders_411
+    3300028: Colliders_438
+    3300030: Colliders_785
+    3300032: Colliders_811
+    4300000: Colliders_2023
+    4300002: Colliders_129
+    4300004: Colliders_59
+    4300006: Colliders_890
+    4300008: Colliders_897
+    4300010: Colliders_2409
+    4300012: Colliders_2543
+    4300014: Colliders_1068
+    4300016: Colliders_1211
+    4300018: Colliders_1348
+    4300020: Colliders_411
+    4300022: Colliders_438
+    4300024: Colliders_2861
+    4300026: Colliders_2872
+    4300028: Colliders_2938
+    4300030: Colliders_785
+    4300032: Colliders_811
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

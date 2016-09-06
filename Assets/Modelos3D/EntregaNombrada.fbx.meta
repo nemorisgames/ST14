@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 7acc913780a711140babcfb074f0620e
+timeCreated: 1433513612
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _notused_Bip01_L_Finger0Nub
+    100002: _notused_Bip01_L_Finger1Nub
+    100004: _notused_Bip01_L_Finger2Nub
+    100006: _notused_Bip01_R_Finger0Nub
+    100008: _notused_Bip01_R_Finger1Nub
+    100010: _notused_Bip01_R_Finger2Nub
+    100012: Ant_Brazo_De
+    100014: Ant_Brazo_Iz
+    100016: Bip01_L_Finger0
+    100018: Bip01_L_Finger01
+    100020: Bip01_L_Finger1
+    100022: Bip01_L_Finger11
+    100024: Bip01_L_Finger2
+    100026: Bip01_L_Finger21
+    100028: Bip01_R_Finger0
+    100030: Bip01_R_Finger01
+    100032: Bip01_R_Finger1
+    100034: Bip01_R_Finger11
+    100036: Bip01_R_Finger2
+    100038: Bip01_R_Finger21
+    100040: Brazo_De
+    100042: Brazo_Iz
+    100044: Cabeza
+    100046: Canilla_De
+    100048: Canilla_Iz
+    100050: Casco
+    100052: Casco 1
+    100054: Casco1
+    100056: Control
+    100058: Cuerpo
+    100060: Cuerpo 1
+    100062: Cuerpo 2
+    100064: Cuerpo1
+    100066: Emp_De
+    100068: Emp_Iz
+    100070: //RootNode
+    100072: Espalda
+    100074: Esqueleto
+    100076: group1
+    100078: group2
+    100080: Hombro_De
+    100082: Hombro_Iz
+    100084: Hombros
+    100086: Lente
+    100088: Lente 1
+    100090: Mano_De
+    100092: Mano_Iz
+    100094: OperadorDentro
+    100096: OperadorFuera
+    100098: P_Pie_De
+    100100: P_Pie_Iz
+    100102: Pelvis
+    100104: Pie_De
+    100106: Pie_Iz
+    100108: Pierna_De
+    100110: Pierna_Iz
+    100112: PuntaCabeza
+    100114: Brazo_De 1
+    100116: Brazo_Iz 1
+    100118: C_Cabeza
+    100120: C_Pie_De
+    100122: C_Pie_Iz
+    100124: Codo_De
+    100126: Codo_Iz
+    100128: ControlBase
+    100130: ControlMedio
+    100132: Hombros 1
+    100134: ik_Pie_De
+    100136: ik_Pie_Iz
+    100138: ikHandle_De
+    100140: ikHandle_Iz
+    100142: ManoDe
+    100144: ManoIz
+    100146: Pecho_Espalda
+    100148: spotLight1
+    100150: Superior
+    100152: cluster1Handle
+    100154: cluster2Handle
+    100156: cluster3Handle
+    100158: Operadores
+    400000: _notused_Bip01_L_Finger0Nub
+    400002: _notused_Bip01_L_Finger1Nub
+    400004: _notused_Bip01_L_Finger2Nub
+    400006: _notused_Bip01_R_Finger0Nub
+    400008: _notused_Bip01_R_Finger1Nub
+    400010: _notused_Bip01_R_Finger2Nub
+    400012: Ant_Brazo_De
+    400014: Ant_Brazo_Iz
+    400016: Bip01_L_Finger0
+    400018: Bip01_L_Finger01
+    400020: Bip01_L_Finger1
+    400022: Bip01_L_Finger11
+    400024: Bip01_L_Finger2
+    400026: Bip01_L_Finger21
+    400028: Bip01_R_Finger0
+    400030: Bip01_R_Finger01
+    400032: Bip01_R_Finger1
+    400034: Bip01_R_Finger11
+    400036: Bip01_R_Finger2
+    400038: Bip01_R_Finger21
+    400040: Brazo_De
+    400042: Brazo_Iz
+    400044: Cabeza
+    400046: Canilla_De
+    400048: Canilla_Iz
+    400050: Casco
+    400052: Casco 1
+    400054: Casco1
+    400056: Control
+    400058: Cuerpo
+    400060: Cuerpo 1
+    400062: Cuerpo 2
+    400064: Cuerpo1
+    400066: Emp_De
+    400068: Emp_Iz
+    400070: //RootNode
+    400072: Espalda
+    400074: Esqueleto
+    400076: group1
+    400078: group2
+    400080: Hombro_De
+    400082: Hombro_Iz
+    400084: Hombros
+    400086: Lente
+    400088: Lente 1
+    400090: Mano_De
+    400092: Mano_Iz
+    400094: OperadorDentro
+    400096: OperadorFuera
+    400098: P_Pie_De
+    400100: P_Pie_Iz
+    400102: Pelvis
+    400104: Pie_De
+    400106: Pie_Iz
+    400108: Pierna_De
+    400110: Pierna_Iz
+    400112: PuntaCabeza
+    400114: Brazo_De 1
+    400116: Brazo_Iz 1
+    400118: C_Cabeza
+    400120: C_Pie_De
+    400122: C_Pie_Iz
+    400124: Codo_De
+    400126: Codo_Iz
+    400128: ControlBase
+    400130: ControlMedio
+    400132: Hombros 1
+    400134: ik_Pie_De
+    400136: ik_Pie_Iz
+    400138: ikHandle_De
+    400140: ikHandle_Iz
+    400142: ManoDe
+    400144: ManoIz
+    400146: Pecho_Espalda
+    400148: spotLight1
+    400150: Superior
+    400152: cluster1Handle
+    400154: cluster2Handle
+    400156: cluster3Handle
+    400158: Operadores
+    2300000: Casco 1
+    2300002: Cuerpo 1
+    2300004: Lente 1
+    2300006: Casco
+    2300008: Cuerpo
+    2300010: Lente
+    3300000: Casco 1
+    3300002: Cuerpo 1
+    3300004: Lente 1
+    3300006: Casco
+    3300008: Cuerpo
+    3300010: Lente
+    4300000: Lente
+    4300002: Cuerpo
+    4300004: Casco
+    4300006: Lente
+    4300008: Cuerpo
+    4300010: Casco
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Casco
+    13700002: Cuerpo
+    13700004: Lente
+    13700006: Casco 1
+    13700008: Cuerpo 1
+    13700010: Lente 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 2400
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Control
+        weight: 1
+      - path: Esqueleto/Control/Pelvis
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Cabeza
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Cabeza/PuntaCabeza
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De/Ant_Brazo_De
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De/Ant_Brazo_De/Mano_De
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De/Ant_Brazo_De/Mano_De/Bip01_R_Finger0
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De/Ant_Brazo_De/Mano_De/Bip01_R_Finger0/Bip01_R_Finger01
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De/Ant_Brazo_De/Mano_De/Bip01_R_Finger0/Bip01_R_Finger01/_notused_Bip01_R_Finger0Nub
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De/Ant_Brazo_De/Mano_De/Bip01_R_Finger1
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De/Ant_Brazo_De/Mano_De/Bip01_R_Finger1/Bip01_R_Finger11
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De/Ant_Brazo_De/Mano_De/Bip01_R_Finger1/Bip01_R_Finger11/_notused_Bip01_R_Finger1Nub
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De/Ant_Brazo_De/Mano_De/Bip01_R_Finger2
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De/Ant_Brazo_De/Mano_De/Bip01_R_Finger2/Bip01_R_Finger21
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_De/Brazo_De/Ant_Brazo_De/Mano_De/Bip01_R_Finger2/Bip01_R_Finger21/_notused_Bip01_R_Finger2Nub
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz/Ant_Brazo_Iz
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz/Ant_Brazo_Iz/Mano_Iz
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz/Ant_Brazo_Iz/Mano_Iz/Bip01_L_Finger0
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz/Ant_Brazo_Iz/Mano_Iz/Bip01_L_Finger0/Bip01_L_Finger01
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz/Ant_Brazo_Iz/Mano_Iz/Bip01_L_Finger0/Bip01_L_Finger01/_notused_Bip01_L_Finger0Nub
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz/Ant_Brazo_Iz/Mano_Iz/Bip01_L_Finger1
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz/Ant_Brazo_Iz/Mano_Iz/Bip01_L_Finger1/Bip01_L_Finger11
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz/Ant_Brazo_Iz/Mano_Iz/Bip01_L_Finger1/Bip01_L_Finger11/_notused_Bip01_L_Finger1Nub
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz/Ant_Brazo_Iz/Mano_Iz/Bip01_L_Finger2
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz/Ant_Brazo_Iz/Mano_Iz/Bip01_L_Finger2/Bip01_L_Finger21
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Espalda/Hombros/Hombro_Iz/Brazo_Iz/Ant_Brazo_Iz/Mano_Iz/Bip01_L_Finger2/Bip01_L_Finger21/_notused_Bip01_L_Finger2Nub
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Pierna_De
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Pierna_De/Canilla_De
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Pierna_De/Canilla_De/Pie_De
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Pierna_De/Canilla_De/Pie_De/Emp_De
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Pierna_De/Canilla_De/Pie_De/Emp_De/P_Pie_De
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Pierna_Iz
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Pierna_Iz/Canilla_Iz
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Pierna_Iz/Canilla_Iz/Pie_Iz
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Pierna_Iz/Canilla_Iz/Pie_Iz/Emp_Iz
+        weight: 1
+      - path: Esqueleto/Control/Pelvis/Cuerpo 2/Pierna_Iz/Canilla_Iz/Pie_Iz/Emp_Iz/P_Pie_Iz
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/group1
+        weight: 1
+      - path: OperadorDentro
+        weight: 1
+      - path: OperadorDentro/Casco
+        weight: 1
+      - path: OperadorDentro/Cuerpo
+        weight: 1
+      - path: OperadorDentro/Lente
+        weight: 1
+      - path: OperadorFuera
+        weight: 1
+      - path: OperadorFuera/Casco 1
+        weight: 1
+      - path: OperadorFuera/Casco1
+        weight: 1
+      - path: OperadorFuera/Cuerpo 1
+        weight: 1
+      - path: OperadorFuera/Cuerpo1
+        weight: 1
+      - path: OperadorFuera/Lente 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
